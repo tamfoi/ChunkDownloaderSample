@@ -1,0 +1,5 @@
+$NUM_ENTRIES = 3
+$BUILD_ID = BuildVersion
+pakchunk1001-WindowsNoEditor.pak	154493	ver001	1001	/PlatformName/pakchunk1001-WindowsNoEditor.pak
+pakchunk1002-WindowsNoEditor.pak	162705	ver001	1002	/PlatformName/pakchunk1002-WindowsNoEditor.pak
+pakchunk1003-WindowsNoEditor.pak	177031	ver001	1003	/PlatformName/pakchunk1003-WindowsNoEditor.pak
